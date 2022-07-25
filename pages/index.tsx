@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className="mt-3 text-2xl">
-          ❗ Work in progress... Will blog my first post soon
+          ❗ Work in progress... Will blog my first post soon I love you prerana
         </p>
       </main>
     </div>
