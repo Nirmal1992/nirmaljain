@@ -20,6 +20,9 @@ const Home: NextPage = () => {
         <p className="mt-3 text-2xl">
           ❗ Work in progress... Will blog my first post soon
         </p>
+        <p>
+          I am planning to get it up and running from start today in next couple of weeks.
+        </p>
       </main>
     </div>
   );
